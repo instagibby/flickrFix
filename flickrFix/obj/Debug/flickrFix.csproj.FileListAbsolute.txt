@@ -1,0 +1,7 @@
+C:\Users\daron\source\repos\flickrFix\flickrFix\bin\Debug\flickrFix.exe.config
+C:\Users\daron\source\repos\flickrFix\flickrFix\bin\Debug\flickrFix.exe
+C:\Users\daron\source\repos\flickrFix\flickrFix\bin\Debug\flickrFix.pdb
+C:\Users\daron\source\repos\flickrFix\flickrFix\obj\Debug\flickrFix.csprojAssemblyReference.cache
+C:\Users\daron\source\repos\flickrFix\flickrFix\obj\Debug\flickrFix.csproj.CoreCompileInputs.cache
+C:\Users\daron\source\repos\flickrFix\flickrFix\obj\Debug\flickrFix.exe
+C:\Users\daron\source\repos\flickrFix\flickrFix\obj\Debug\flickrFix.pdb
